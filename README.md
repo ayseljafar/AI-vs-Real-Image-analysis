@@ -1,1 +1,1 @@
-# AI-vs-Real-Image-analysiss
+# AI-vs-Real-Image-analysis
